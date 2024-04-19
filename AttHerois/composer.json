@@ -1,0 +1,14 @@
+{
+    "name": "anajulia/attherois",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Julia"
+        }
+    ],
+    "require": {}
+}
